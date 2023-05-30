@@ -1,0 +1,41 @@
+#include "global_values.h"
+
+//MEM
+unsigned char *MEM_BASE;
+unsigned char* PARLCD_MEM_BASE;
+
+//DEFAULT VALUES
+const int DEF_TILE_SIZE = 15;
+const int DEF_SNAKE_SPEED = 3;
+
+const unsigned int DEF_SNAKE1_COLOR = PINK; 
+const unsigned int DEF_SNAKE2_COLOR = BLUE; 
+const unsigned int DEF_FRUIT_COLOR = RED; 
+const unsigned int DEF_SNAKE_BORDER_COLOR = WHITE;
+
+const int DEF_THEME = DARK_THEME;
+const unsigned int DEF_PRIMARY_COLOR = BLACK;
+const unsigned int DEF_SECONDARY_COLOR = WHITE;
+const unsigned int DEF_GAME_BACKGROUND_COLOR = BLACK;
+
+//CURRENT VALUES
+int TILE_SIZE = DEF_TILE_SIZE;
+int SNAKE_SPEED = DEF_SNAKE_SPEED;
+
+unsigned int SNAKE1_COLOR = DEF_SNAKE1_COLOR;
+unsigned int SNAKE2_COLOR = DEF_SNAKE2_COLOR; 
+unsigned int FRUIT_COLOR = DEF_FRUIT_COLOR; 
+unsigned int SNAKE_BORDER_COLOR = DEF_SNAKE_BORDER_COLOR;
+
+int THEME = DEF_THEME;
+
+unsigned int PRIMARY_COLOR = DEF_PRIMARY_COLOR;
+unsigned int SECONDARY_COLOR = DEF_SECONDARY_COLOR;
+unsigned int GAME_BACKGROUND_COLOR = DEF_GAME_BACKGROUND_COLOR;
+
+int SCORE = 0;
+int HIGH_SCORE = 0;
+int CURRENT_PLAYER = PLAYER_1;
+
+int SCORE_PLAYER1 = 0;
+int SCORE_PLAYER2 = 0;

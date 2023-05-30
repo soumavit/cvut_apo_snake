@@ -1,0 +1,7 @@
+3 6
+Pos 0; Player_1 0; Highscore:10 10; 
+Pos 2; Player_2 1; Highscore:1 1; 
+Pos 1; Player_3 2; Highscore:3 3; 
+Pos 3; Player_4 3; Highscore:0 0; 
+Pos 4; Player_5 4; Highscore:0 0; 
+Pos 5; Player_6 5; Highscore:0 0; 
