@@ -1,5 +1,7 @@
 # cvut_apo_snake
-A simple snake game designed for the MicroZed board with included console simulator version and user manual.
+A simple snake game designed by Vit Soumar for the MicroZed board.
+Included simulator version (snake_sim folder) that runs in linux terminal.
+Inlcuded user manual.
 
 snake  </br>
 - App designed for the MicroZed board  </br>
