@@ -4,6 +4,7 @@ This app was created by Vit Soumar as a semestral project for a computer archite
 
 This is the version that can be run in a linux terminal. Its not optimal because its using the terminal as a simulated display,
 but is was sufficent for the needs for the semestral project.
+The files also arent sorted to folders by their function and only the code in the non-simulated version is documented, although the code is almost the same as this one.
 
 Steps:
 1) open up the terminal
