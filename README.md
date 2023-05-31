@@ -12,5 +12,8 @@ snake_sim  </br>
 - The same app but this one can be run in the linux terminal which acts as a display in this case </br>
 - Documentation not finished. </br>
           
+snake_showcase.mp4 </br>
+- video showcase of the app
+
 user_manual.pdf  </br>
 - the user manual </br>
