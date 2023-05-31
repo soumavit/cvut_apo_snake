@@ -10,12 +10,12 @@ snake  </br>
       
 snake_sim  </br>
 - App designed for the MicroZed board but this one can be run in the linux terminal which acts as a display </br>
-- Documentation not finished yet. </br>
-- Files are not sorted yet. </br>
+- Documentation not finished yet </br>
+- Files are not sorted yet </br>
           
 snake_showcase.mp4 </br>
-- video showcase of the app
-- the video is uploaded in the repository wiki under the video showcase section
+- Video showcase of the app </br>
+- The video is uploaded in the repository wiki under the video showcase section </br>
 
 user_manual.pdf  </br>
-- the user manual </br>
+- The user manual </br>
