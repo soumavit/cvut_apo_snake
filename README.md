@@ -9,7 +9,7 @@ snake  </br>
 - Files in folders sorted by their main function (scene files are in scenes, utilities files are in utils etc.) </br>
       
 snake_sim  </br>
-- The same app but this one can be run in the linux terminal which acts as a display in this case </br>
+- App designed for the MicroZed board but this one can be run in the linux terminal which acts as a display </br>
 - Documentation not finished. </br>
           
 snake_showcase.mp4 </br>
