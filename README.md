@@ -14,6 +14,7 @@ snake_sim  </br>
           
 snake_showcase.mp4 </br>
 - video showcase of the app
+- the video is uploaded in the repository wiki under the video showcase section
 
 user_manual.pdf  </br>
 - the user manual </br>
